@@ -29,3 +29,11 @@ h3{
     text-align: right;
     font-style: italic;
 }
+.container{
+    background-color:lightgray;
+    margin: 100;
+    padding: 75;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px 10px 5px 10px;
+}
